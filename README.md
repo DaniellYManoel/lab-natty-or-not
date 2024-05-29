@@ -20,29 +20,45 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Ebook, artigo e Podcast;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+No bootcamp da DIO com parceria do Santander, criei três porjetos com Inteligência Artificial.
+- O primeiro foi o ebook 'Explorando Python manual prático para iniciantes'.
+- O segundo foi um artigo 'Primeiros passos na programação: por onde começar?'
+- O terceiro foi um Podcast.
+Todo o conteúdo foi revisado e editado por mim.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+### Ebook:
+. ChatGpt
+. PorwerPoint
+### Artigo
+. Chatgpt
+### Podcast
+.  ChatGpt para o nome e roteiro
+. lexica.art para a imagem.
+. beta.elevanlabs.io para gera o ádio
+. E a edição pelo CapCut.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
+Todos tem seus próprio repositorio aqui na meu GitHub.
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+
+## 💭 Reflexão (Opcional)
+Comente sobre o desafio de criar algo 'natty' com IA.
+
+### Exemplos e Insigths
+
+- [E-BOOK](https://github.com/DaniellYManoel/primeiro_ebook.git)
+- [Podcast](https://github.com/DaniellYManoel/podcast.git)
+- [Artigo](https://github.com/DaniellYManoel/primeiro_artigo.git)
+
+### Rede
+Linkedln: @Danielly Cruz
+```
 
 ## Links Interessantes
 
